@@ -1,3 +1,5 @@
+# Programa para sumar 2 numeros
+
 import os  # para limpiar la pantalla
 
 def limpiar_pantalla():
