@@ -1,3 +1,5 @@
+# Programa sobre el metodo de busqueda burbuja
+
 def bubblesort(lista):
     n = len(lista )
     
