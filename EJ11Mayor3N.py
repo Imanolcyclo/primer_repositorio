@@ -1,6 +1,6 @@
 import os
 
-#programa para comvertir grados celsius a fahrenheit
+#programa para determinar el mayor de 3 numeros
 
 def limpiar_pantalla():
     
