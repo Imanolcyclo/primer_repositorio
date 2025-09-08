@@ -1,6 +1,6 @@
 import os
 
-#programa para Determinar si un numero es bisiesto
+#programa para Determinar si un año es bisiesto
 
 def limpiar_pantalla():
     
