@@ -1,6 +1,6 @@
 import os
 
-#programa para comvertir grados celsius a fahrenheit
+#programa para Determinar si un numero es bisiesto
 
 def limpiar_pantalla():
     
